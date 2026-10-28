@@ -1,6 +1,6 @@
-# AdTech-SaaS-Software-PostgreSQL — AI-Powered Advertising Campaign Management Platform
+# AdTech-SaaS-Software-PostgreSQL
 
-> **Project:** AdTech-SaaS-Software-PostgreSQL  
+> **Project:** AI-Powered Advertising Campaign Management Platform 
 > **Type:** Full-stack SaaS starter / campaign intelligence dashboard  
 > **Status:** Development MVP with PostgreSQL-backed campaign APIs and demo data
 
